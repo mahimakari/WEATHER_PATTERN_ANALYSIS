@@ -12,15 +12,15 @@ Intern ID: CITS846
 
 🔗 PROJECT OVERVIEW
 
-This project analyzes weather data using Python.
+This project analyzes weather data using Python
 
-Visualizes weather insights using graphs and charts.
+Visualizes weather insights using graphs and charts
 
-Performs data cleaning, visualization, and weather analysis.
+Performs data cleaning, visualization, and weather analysis
 
-Helps understand temperature, humidity, and precipitation trends.
+Helps understand temperature, humidity, and precipitation trends
 
-Builds insights for better understanding of climate conditions.
+Builds insights for better understanding of climate conditions
 
 🔗 FEATURES
 
@@ -56,9 +56,9 @@ Humidity
 
 Precipitation
 
-Date
+Cloud Cover
 
-City Information
+Wind Speed
 
 Weather Conditions
 
@@ -80,33 +80,19 @@ Humidity Analysis
 
 Precipitation Analysis
 
-Average, Maximum and Minimum Temperature Analysis
-
-🔗 WEATHER ANALYSIS
-
-Temperature Analysis
-
-Humidity Analysis
-
-Precipitation Analysis
-
-Climate Trend Analysis
-
-🔗 OUTPUT GENERATED
-
-Average Temperature
-
-Maximum Temperature
-
-Minimum Temperature
-
-Weather Trend Graphs
-
-Climate Insights
+Average, Maximum and Minimum Temperature Output
 
 🔗 RUN PROJECT
 
 Command: python weather_analysis.py
+
+🔗 PROJECT LINKS
+
+Local Path: Weather-Pattern-Analysis/
+
+Dataset File: india_weather_103cities_30mar_13apr.csv
+
+Python Script: weather_analysis.py
 
 🔗 OUTPUT
 
@@ -116,16 +102,8 @@ Humidity Analysis Graph
 
 Precipitation Analysis Graph
 
-Temperature Statistics Output
+Average Temperature Output
 
-Weather Insights Report
+Maximum Temperature Output
 
-🔗 ANALYSIS
-
-The project helps identify weather patterns and climate trends using graphical representations. Temperature, humidity, and precipitation data are analyzed to understand weather behavior and seasonal changes. Statistical analysis provides meaningful insights into climate conditions.
-
-🔗 CONCLUSION
-
-The Weather Pattern Analysis project successfully analyzes weather data using Python and data visualization techniques. The project helps understand temperature changes, humidity levels, precipitation patterns, and overall climate behavior through charts and analysis.
-
-Overall, this project improves knowledge in Data Analytics, Python Programming, Data Visualization, Data Cleaning, and Weather Analysis while providing meaningful insights into weather and climate trends.
+Minimum Temperature Output
